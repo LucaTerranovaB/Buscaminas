@@ -6,4 +6,4 @@ WORKDIR /Buscaminas
 
 RUN pip install -r requirements.txt
 
-CMD ['python3', 'test_buscaminas.py']
+CMD ["python3", "test_buscaminas.py"]
